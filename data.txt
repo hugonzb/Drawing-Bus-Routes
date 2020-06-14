@@ -1,0 +1,8 @@
+Christchurch,Dunedin
+Christchurch,Rolleston,5.5
+Rolleston,Temuka,15
+Temuka,Timaru,          16.5
+Timaru, Oamaru, 27
+Oamaru,       Palmerston, 21.5
+Palmerston, Dunedin, 23
+Christchurch, Palmerston, 85.5
