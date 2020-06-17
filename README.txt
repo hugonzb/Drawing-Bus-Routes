@@ -1,10 +1,8 @@
-Clone the repository: 
+Clone the repository: https://github.com/hugonzb/Drawing-Bus-Routes.git
 
-How to compile and run:
+Compile and run in a Unix terminal (input file as an argument): python3 DrawingBusRoutes.py example.txt
 
-python3 DrawingBusRoutes.py file.txt
-
-Use a file that contains the correct input and add it the command line when running the .py file.
+Use a .txt file that contains input which follows the same format as these test cases. Feel free to simply copy and paste these test cases to use in your input file.
 
 Test cases:
 
@@ -16,15 +14,6 @@ Timaru, Oamaru, 27
 Oamaru, Palmerston, 21.5
 Palmerston, Dunedin, 23
 Christchurch, Palmerston, 85.5
-
-Christchurch,Dunedin 
-Christchurch,Rolleston,5.5
-Rolleston,Temuka,15
-Temuka,Timaru,          16.5 ssssssss
-Timaru, Oamaru, 27
-Oamaru,       Palmerston, 21.5
-Palmerston, Dunedin, 23
-Christchurch, Palmerston, 85.5 this text is not supposed to be here
 
 Dunedin, Wanaka
 Christchurch, Rolleston, 5.5
