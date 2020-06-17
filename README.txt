@@ -1,8 +1,10 @@
+Clone the repository: 
+
 How to compile and run:
 
 python3 DrawingBusRoutes.py file.txt
 
-Use a file that contains the correct input and add it the command line when compiling/running the .py file.
+Use a file that contains the correct input and add it the command line when running the .py file.
 
 Test cases:
 
