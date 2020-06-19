@@ -4,7 +4,7 @@ Compile and run in a Unix terminal (input file as an argument): python3 DrawingB
 
 Use a .txt file that contains input which follows the same format as these test cases. Feel free to simply copy and paste these test cases to use in your input file.
 
-Test cases:
+Example Test cases:
 
 Christchurch, Dunedin
 Christchurch, Rolleston, 5.5
