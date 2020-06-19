@@ -2,7 +2,7 @@ Clone the repository: https://github.com/hugonzb/Drawing-Bus-Routes.git
 
 Compile and run in a Unix terminal (input file as an argument): python3 DrawingBusRoutes.py example.txt
 
-Use a .txt file that contains input which follows the same format as these test cases. Feel free to simply copy and paste these test cases to use in your input file.
+Use a .txt file that contains input which follows the same format as the test cases below. Feel free to simply copy and paste these test cases to use in your input file.
 
 Example Test cases:
 
